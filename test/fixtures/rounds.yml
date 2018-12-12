@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  startup: one
+  amount_to_raise: 1
+  amount_open_to_wallet: 1
+
+two:
+  startup: two
+  amount_to_raise: 1
+  amount_open_to_wallet: 1
