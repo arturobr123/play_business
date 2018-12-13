@@ -5,20 +5,29 @@
 Play business feature found in:
 lib/play_business.rb
 Actions:
+
 *get all investments of a user
+
 *get the average
+
 *get standard_deviation
+
 *get CV
+
 *get promotion depends of CV and how many investments has done.
 
 Test cases (5) found in:
+
 spec/play_business_spec.rb
 
 How to reply the action:
+
 *download the source code
 
-do the migration: rake db:migrate
-prepare db to test (create records in test cases): rake db:test:prepare
+*do the migration: rake db:migrate
+
+*prepare db to test (create records in test cases): rake db:test:prepare
+
 *And run the test cases: bin/rspec --format doc
 
 
